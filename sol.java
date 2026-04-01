@@ -3,7 +3,7 @@ import java.util.*;
 class Main {
     public static void main(String[] args) {
         String str = "aabcbcde";
-        char result = firstNonRepeating(str);
+         char result = firstNonRepeating(str);
         
         if(result == '-')
             System.out.println(-1);
